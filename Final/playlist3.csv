@@ -1,0 +1,71 @@
+,trackname,album,artist,length,popularity,danceability,acousticness,energy,instrumentalness, mode,liveness,loudness,speechiness,tempo,time_signature,valence,genres
+0,Hola (feat. Maluma),Hola (feat. Maluma),Flo Rida,192376,57,0.757,0.0207,0.711,3.04e-05,1,0.11,-5.693,0.0769,113.026,4,0.649,dance pop
+1,Places,Places,Martin Solveig,202745,63,0.728,0.248,0.854,0.00188,0,0.149,-3.86,0.0457,121.995,4,0.62,dance pop
+2,I Need You (feat. Olaf Blackwood) - Extended Club Mix,I Need You (feat. Olaf Blackwood) [Club Mix],Armin van Buuren,330360,22,0.666,0.00151,0.872,0.137,0,0.0933,-6.497,0.0584,127.984,4,0.255,dance pop
+3,Come Get It Bae,G I R L,Pharrell Williams,201933,0,0.934,0.266,0.798,4.54e-05,1,0.0962,-5.665,0.0849,120.162,4,0.895,latin
+4,Let Me Love You - R3hab Remix,Let Me Love You (R3hab Remix),DJ Snake,175000,53,0.433,0.0209,0.82,0.0,0,0.292,-2.84,0.0924,203.968,4,0.536,dance pop
+5,Paris - LOUDPVCK Remix,Paris (Remixes),The Chainsmokers,231413,37,0.622,0.168,0.756,1.56e-05,1,0.235,-5.523,0.0367,100.056,4,0.76,dance pop
+6,Fracture,Fracture,SLUMBERJACK,234838,32,0.326,0.0144,0.832,0.000228,0,0.144,-3.193,0.273,185.471,4,0.156,banjo
+7,Heaven,Heaven,Dash Berlin,197812,41,0.59,0.0265,0.786,0.0,0,0.146,-2.437,0.0377,128.027,4,0.236,big room
+8,Aloha,Aloha,Møme,218400,0,0.551,0.221,0.727,3.43e-05,0,0.12,-5.903,0.201,100.394,4,0.4,dance pop
+9,Don't Wanna Know,Don't Wanna Know,Maroon 5,214480,1,0.783,0.338,0.623,0.0,1,0.0975,-6.126,0.08,100.048,4,0.447,pop
+10,Addicted To Your Love,Addicted To Your Love,Million Dollar Weekends,191946,0,0.819,0.0432,0.788,0.000634,1,0.139,-3.158,0.0547,117.981,4,0.75,
+11,Would I Lie to You - Radio Edit,Would I Lie to You,David Guetta,197647,63,0.671,0.00718,0.826,0.0,0,0.631,-5.766,0.309,123.986,4,0.774,big room
+12,Girls Like (feat. Zara Larsson),Girls Like (feat. Zara Larsson),Tinie Tempah,196000,66,0.916,0.37,0.804,1.18e-05,1,0.0812,-3.406,0.049,120.028,4,0.538,dance pop
+13,Pump It,Pump It,Black Eyed Peas,213613,48,0.647,0.00949,0.925,0.0,1,0.564,-3.157,0.176,153.669,4,0.753,dance pop
+15,Let's Get Retarded,Elephunk (International Version),Black Eyed Peas,215920,0,0.913,0.0887,0.682,0.0,1,0.14,-4.361,0.234,105.025,4,0.633,dance pop
+17,Temperature,The Trinity,Sean Paul,218573,78,0.951,0.106,0.6,0.0,0,0.0712,-4.675,0.0685,125.04,4,0.822,dance pop
+18,Icarus,Icarus,R3HAB,192255,43,0.809,0.0208,0.859,6.87e-05,0,0.389,-4.492,0.12,121.912,4,0.509,dance pop
+19,Let Me Hold You (Turn Me On),Let Me Hold You (Turn Me On),Cheat Codes,162425,0,0.681,0.0992,0.774,0.0,0,0.35,-3.167,0.0787,102.924,4,0.267,meme rap
+20,Can't Fight It,Can't Fight It,Quintino,183750,0,0.687,0.00313,0.73,1.3e-05,0,0.21,-5.906,0.0345,128.028,4,0.333,dance pop
+21,Bodrum,Hande'ye Neler Oluyor,Hande Yener,225173,50,0.75,0.12,0.844,0.0,0,0.32,-4.852,0.051,130.014,4,0.895,turkish pop
+22,Do It Right,Do It Right,Anne-Marie,195984,51,0.644,0.0123,0.645,1.75e-06,0,0.121,-8.562,0.16,130.005,4,0.74,dance pop
+23,American Boy,Shine,Estelle,284733,79,0.727,0.171,0.729,0.0,1,0.07,-2.99,0.326,117.932,4,0.512,neo soul
+24,Ginza - Anitta Remix,Ginza (Anitta Remix),J Balvin,170360,0,0.824,0.0539,0.833,0.00192,0,0.098,-5.613,0.0675,101.975,4,0.867,latin
+25,X,X,Nicky Jam,173627,7,0.595,0.0364,0.773,0.00108,0,0.334,-4.736,0.0549,180.073,4,0.711,latin
+27,Live It Up - Official Song 2018 FIFA World Cup Russia,Live It Up (Official Song 2018 FIFA World Cup Russia),Nicky Jam,207977,62,0.582,0.00573,0.944,1.27e-06,0,0.547,-0.928,0.185,143.97,4,0.8,latin
+29,Lo Malo,Sus Canciones (Operación Triunfo 2017),Aitana,182999,0,0.762,0.64,0.76,0.0,0,0.215,-2.642,0.0679,95.022,4,0.967,latin pop
+30,EL BAÑO (feat. Bad Bunny),EL BAÑO (feat. Bad Bunny),Enrique Iglesias,228138,66,0.719,0.132,0.842,0.0,0,0.105,-3.562,0.0383,90.017,4,0.534,dance pop
+31,The Weekend - Funk Wav Remix,The Weekend (Funk Wav Remix),SZA,171805,77,0.775,0.495,0.573,0.0,1,0.126,-4.933,0.0585,101.925,4,0.667,pop
+32,Explorer,Explorer,Avenza,207165,30,0.702,0.00439,0.905,0.00504,0,0.15,-6.393,0.0895,110.067,4,0.186,gaming edm
+33,Let Me Love You (feat. Chris Crone),Let Me Love You (feat. Chris Crone),SJUR,208886,55,0.462,0.123,0.83,0.0,0,0.0726,-4.089,0.0673,105.058,4,0.557,dance pop
+34,Tip Toe (feat. French Montana),Tip Toe (feat. French Montana),Jason Derulo,187521,68,0.845,0.0233,0.709,0.0,0,0.094,-4.547,0.0714,98.062,4,0.62,nz pop
+35,Look What You Made Me Do,Look What You Made Me Do,Taylor Swift,211859,1,0.773,0.213,0.68,1.57e-05,0,0.122,-6.378,0.141,128.062,4,0.497,dance pop
+37,...Ready For It?,...Ready For It?,Taylor Swift,208198,0,0.616,0.0573,0.77,0.0,1,0.159,-6.5,0.142,160.049,4,0.412,dance pop
+39,Mon chéri,Mon Chéri,Capo,229471,51,0.512,0.0377,0.719,0.0,0,0.312,-5.464,0.0553,106.948,4,0.146,memphis hip hop
+40,İnceden İnceden,İnceden İnceden,Tuğba Yurt,191627,49,0.707,0.378,0.712,0.0,0,0.0862,-5.564,0.0471,126.008,4,0.408,turkish pop
+41,Vurulmuşum,Simsiyah,Mustafa Ceceli,244780,0,0.689,0.661,0.6,0.0,0,0.121,-6.087,0.0319,120.035,4,0.222,turkish pop
+43,İlle De Aşk,Kalpten,Mustafa Ceceli,171504,42,0.678,0.0652,0.881,0.0,1,0.386,-5.838,0.0438,107.995,4,0.706,turkish pop
+45,Sen,Sen,İdo Tatlıses,243516,47,0.609,0.157,0.862,5.22e-06,0,0.308,-3.557,0.0931,176.037,4,0.8,turkish pop
+46,Like A Star (feat. Nicki Minaj),Like A Star (feat. Nicki Minaj),Fetty Wap,191143,42,0.791,0.0597,0.776,0.0,1,0.199,-5.442,0.257,97.009,4,0.839,new jersey rap
+47,Ohne Dich,Ohne Dich,Moe Phoenix,193136,0,0.372,0.113,0.673,0.000174,1,0.11,-7.608,0.127,81.824,4,0.456,german hip hop
+48,Ajajaj,Ajajaj,Mert,197502,50,0.751,0.0744,0.778,0.0,0,0.124,-4.435,0.243,99.027,4,0.336,chicago rap
+50,Groupie,Groupie,Mert,213333,36,0.846,0.157,0.789,1.27e-06,0,0.101,-4.353,0.203,98.989,4,0.391,chicago rap
+52,Aladdin,Aladdin,Ardian Bujupi,221499,36,0.779,0.149,0.689,0.0,1,0.241,-5.666,0.147,107.159,4,0.201,albanian hip hop
+55,SUPERMODELS,SUPERMODELS,Ardian Bujupi,172819,18,0.705,0.366,0.711,0.0911,0,0.167,-6.5,0.0334,107.0,4,0.401,albanian hip hop
+58,Repeat,Repeat,Ardian Bujupi,199320,13,0.495,0.0763,0.786,3.62e-06,0,0.125,-6.111,0.135,125.882,5,0.681,albanian hip hop
+61,Deli Divane,Sahiden,Buray,236062,47,0.526,0.253,0.933,7.62e-06,1,0.413,-3.903,0.0843,119.551,4,0.851,electropop
+62,Hot2Touch,Hot2Touch,Felix Jaehn,160825,0,0.755,0.000875,0.719,1.53e-05,0,0.326,-5.316,0.0421,121.986,4,0.813,alt z
+63,Him & I (with Halsey),The Beautiful & Damned,G-Eazy,268866,77,0.589,0.0534,0.731,0.0,1,0.308,-6.343,0.0868,87.908,4,0.191,hip hop
+64,Hoodie x Chucks,Amnesia,Ali As,218535,50,0.508,0.00334,0.721,0.0,1,0.037,-7.024,0.123,81.397,4,0.279,
+65,Can't Get To You (feat. Layth) - Few Wolves Remix,Can't Get To You (feat. Layth) [The Remixes],TooManyLeftHands,201748,10,0.777,0.0595,0.747,0.00371,0,0.189,-6.97,0.101,119.996,4,0.473,danish electronic
+66,Mörder,Palmen aus Plastik,Bonez MC,214731,61,0.683,0.309,0.695,0.0,0,0.107,-7.321,0.152,90.006,4,0.486,deep german hip hop
+67,Number One,Number One,Massari,193532,32,0.508,0.0768,0.679,0.0,1,0.105,-6.086,0.272,92.053,4,0.443,palestinian pop
+68,Statements (feat. Bushido),DREAMS,Shindy,242333,54,0.6,0.065,0.665,0.0,0,0.183,-6.025,0.316,153.092,4,0.559,waiata mo tamariki
+69,Yaktım Gemileri,Yaktım Gemileri,Uğur Etiler,204489,35,0.696,0.0327,0.869,0.0,0,0.0728,-7.688,0.0674,103.998,4,0.52,
+70,"Top Off (feat. JAY Z, Future & Beyoncé)","Top Off (feat. JAY Z, Future & Beyoncé)",DJ Khaled,230712,54,0.573,0.0107,0.591,0.0,0,0.455,-6.715,0.331,86.721,5,0.232,dance pop
+71,Wie sie tanzt,Wie sie tanzt,PA Sports,173906,0,0.795,0.0742,0.891,1.78e-06,0,0.274,-3.218,0.237,110.039,4,0.594,indie garage rock
+72,ICY GRL,ICY GRL,Saweetie,109302,0,0.927,0.0306,0.563,0.0,1,0.0736,-5.827,0.175,103.312,4,0.842,cali rap
+73,Pantera ft. Mandi,Pantera ft. Mandi,Sergio,243391,0,0.768,0.135,0.752,1.58e-05,0,0.1,-6.254,0.0507,96.017,4,0.657,grupera
+74,Freaky Friday (feat. Chris Brown),Freaky Friday (feat. Chris Brown),Lil Dicky,216631,74,0.755,0.147,0.599,0.0,1,0.109,-5.042,0.224,133.123,4,0.755,comedy rap
+75,no tears left to cry,no tears left to cry,Ariana Grande,205946,2,0.703,0.0375,0.696,5.65e-06,1,0.274,-5.482,0.0529,121.969,4,0.366,dance pop
+76,Chun-Li,Chun-Li,Nicki Minaj,191605,0,0.643,0.307,0.766,1.38e-05,0,0.107,-4.788,0.384,97.092,4,0.463,dance pop
+80,Barbie Tingz,Barbie Tingz,Nicki Minaj,191699,69,0.917,0.0867,0.679,0.0,1,0.588,-6.083,0.266,102.449,4,0.453,dance pop
+84,Bed (feat. Ariana Grande),Bed (feat. Ariana Grande),Nicki Minaj,189360,0,0.589,0.0551,0.714,0.00013,1,0.131,-6.308,0.258,118.611,5,0.42,dance pop
+88,Thought I Knew You (feat. The Weeknd),Queen,Nicki Minaj,198280,39,0.771,0.0349,0.714,0.00196,1,0.0862,-5.903,0.0449,150.021,4,0.466,dance pop
+92,So Far Away (feat. Jamie Scott & Romy Dya),So Far Away (feat. Jamie Scott & Romy Dya),Martin Garrix,183636,68,0.526,0.435,0.52,0.0,0,0.197,-7.985,0.0569,149.119,4,0.13,dance pop
+93,Solo (feat. Demi Lovato),Solo (feat. Demi Lovato),Clean Bandit,222653,75,0.737,0.0441,0.636,6.66e-05,0,0.35,-4.546,0.0437,105.005,4,0.565,dance pop
+94,Drück Drück (feat. LX),Drück Drück,Gzuz,219363,0,0.441,0.122,0.876,3.99e-06,1,0.324,-5.652,0.336,69.938,4,0.408,deep german hip hop
+95,"My Neck, My Back (Lick It)",Thug Misses (Digitally Remastered),Khia,222560,61,0.859,0.0296,0.625,0.0,0,0.0537,-4.234,0.13,102.072,4,0.71,hip pop
+96,Let Me Get Me,Rare,Selena Gomez,189145,54,0.826,0.249,0.571,1.66e-05,1,0.215,-9.263,0.0426,121.06,4,0.475,dance pop
+97,Circus,Circus (Deluxe Version),Britney Spears,192360,73,0.791,0.147,0.733,0.000381,0,0.0713,-5.215,0.052,114.98,4,0.761,dance pop

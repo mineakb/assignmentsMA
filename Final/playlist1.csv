@@ -1,0 +1,94 @@
+,trackname,album,artist,length,popularity,danceability,acousticness,energy,instrumentalness, mode,liveness,loudness,speechiness,tempo,time_signature,valence,genres
+0,Unter meiner Haut,Unter meiner Haut,ELIF,195253,45,0.643,0.0582,0.711,0.0,1,0.0509,-7.049,0.064,92.014,4,0.363,dutch experimental electronic
+7,GITARRE,NACHT,ELIF,188484,39,0.81,0.0326,0.743,0.0,0,0.125,-5.664,0.0348,125.979,4,0.272,dutch experimental electronic
+14,ABER WO BIST DU,NACHT,ELIF,185274,50,0.78,0.23,0.592,0.0,0,0.184,-6.02,0.0631,148.057,4,0.705,dutch experimental electronic
+21,ALASKA,NACHT,ELIF,217766,45,0.743,0.0581,0.671,0.0,0,0.195,-5.594,0.0589,76.998,4,0.484,dutch experimental electronic
+28,FREUNDE,NACHT,ELIF,177740,53,0.786,0.33,0.705,0.0,0,0.126,-5.419,0.0852,82.019,4,0.469,dutch experimental electronic
+35,AUGEN ZU (feat. Samra),NACHT,ELIF,174248,66,0.685,0.125,0.693,1.81e-06,0,0.275,-6.741,0.217,167.957,4,0.493,dutch experimental electronic
+42,NUR MIR,NUR MIR,ELIF,150528,38,0.736,0.0199,0.529,8.38e-06,0,0.11,-6.049,0.0495,83.053,4,0.591,dutch experimental electronic
+49,Yes Indeed,Yes Indeed,Alicia Awa,180869,57,0.757,0.0685,0.529,0.0014,0,0.12,-8.582,0.0502,128.03,4,0.177,
+50,HIGHWAY (feat. ELIF),HIGHWAY (feat. ELIF),Katja Krasavice,164062,70,0.618,0.51,0.48,5.94e-05,0,0.111,-10.135,0.0353,144.97,4,0.386,frauenrap
+52,ICH SEH,ICH SEH,Katja Krasavice,177066,50,0.723,0.086,0.449,0.00259,0,0.143,-9.432,0.045,143.964,4,0.199,frauenrap
+54,No Mercy,No Mercy,Genuva,155000,44,0.749,0.184,0.597,0.0,1,0.177,-6.715,0.233,88.164,4,0.822,
+55,Bye Bye,Bye Bye,Sarah Connor,194724,65,0.538,0.209,0.696,0.0,1,0.0923,-6.474,0.137,163.867,4,0.534,europop
+56,Intelligenz,Intelligenz,NILOO,127080,28,0.814,0.0106,0.636,2.67e-05,1,0.162,-5.948,0.0571,99.956,4,0.412,persian hip hop
+57,Naughty or Nice,Naughty or Nice,badmómzjay,119016,54,0.838,0.00564,0.534,0.0,1,0.0586,-7.251,0.17,95.009,4,0.255,german alternative rap
+61,Supernova,18,badmómzjay,192828,64,0.461,0.248,0.479,0.101,1,0.145,-10.207,0.0644,138.958,4,0.0654,german alternative rap
+65,Zirkus,Zirkus,badmómzjay,135236,55,0.617,0.113,0.517,0.00711,1,0.351,-6.84,0.561,105.606,4,0.454,german alternative rap
+69,Snowbunny,Snowbunny,badmómzjay,134893,60,0.922,0.0862,0.569,0.00037,1,0.115,-8.757,0.163,98.04,4,0.418,german alternative rap
+73,Schwerelos,Weiss,Hava,178257,62,0.75,0.355,0.477,0.000555,0,0.0962,-7.287,0.118,98.006,4,0.312,dance pop
+74,Bitte geh,Seele,MERO,206213,67,0.81,0.299,0.75,4.76e-05,0,0.13,-4.421,0.0546,110.044,4,0.246,edm
+76,Désolé,Désolé,MERO,196719,60,0.755,0.273,0.619,0.0,0,0.158,-6.83,0.263,90.0,4,0.574,edm
+78,Be Without You - Kendu Mix,The Breakthrough,Mary J. Blige,246333,63,0.726,0.0717,0.7,0.0,0,0.262,-5.881,0.0998,146.559,4,0.673,dance pop
+79,You Belong With Me,Fearless,Taylor Swift,232120,39,0.69,0.17,0.774,1.64e-05,1,0.102,-4.467,0.039,129.98,4,0.414,dance pop
+81,Wildest Dreams,1989 (Deluxe),Taylor Swift,220440,61,0.55,0.0692,0.688,0.00144,1,0.106,-7.416,0.0897,139.997,4,0.465,dance pop
+83,What You Don't Know,Strictly Physical,Monrose,225760,25,0.568,0.293,0.542,0.0,0,0.0813,-7.433,0.026,129.937,4,0.155,filter house
+84,Like a Boy,The Evolution,Ciara,237053,61,0.701,0.267,0.724,0.0,0,0.0867,-5.751,0.145,132.035,4,0.425,dance pop
+85,Stay The Night,Stay The Night,Milla Knight,179018,41,0.752,0.00575,0.815,3.13e-05,1,0.0507,-5.043,0.0452,126.03,4,0.768,
+86,Monster (Shawn Mendes & Justin Bieber),Monster,Shawn Mendes,178994,87,0.652,0.0676,0.383,0.0,0,0.0828,-7.076,0.0516,145.765,4,0.549,canadian pop
+87,gebe auf.,gebe auf.,Lune,157849,72,0.806,0.273,0.475,0.000603,0,0.13,-8.235,0.0489,99.995,4,0.56,edm
+88,Tränenmeer,Tränenmeer,LUNA,212869,53,0.349,0.948,0.128,0.0,1,0.101,-14.994,0.0783,67.763,5,0.222,
+90,Viel leichter,Viel leichter,LUNA,208529,55,0.471,0.515,0.489,0.0,0,0.241,-8.225,0.0562,169.706,4,0.578,
+92,Sorry Not Sorry (feat. Takt32 & badmómzjay),Sorry Not Sorry (feat. Takt32 & badmómzjay),Monet192,179000,61,0.896,0.0779,0.573,0.000116,1,0.282,-7.394,0.305,130.215,4,0.494,german hip hop
+93,positions,Positions,Ariana Grande,172324,93,0.737,0.468,0.802,0.0,1,0.0931,-4.771,0.0878,144.015,4,0.682,dance pop
+96,shut up,Positions,Ariana Grande,157710,70,0.499,0.801,0.462,0.0,1,0.0946,-5.308,0.0312,127.698,4,0.599,dance pop
+99,Problem,My Everything (Deluxe),Ariana Grande,193920,75,0.66,0.0192,0.805,8.83e-06,0,0.159,-5.352,0.153,103.008,4,0.625,dance pop
+102,Nimet,Nimet,Didomido,136730,66,0.722,0.253,0.623,5.64e-06,0,0.191,-5.687,0.0414,129.898,4,0.363,turkish trap pop
+103,La Rubia - Remix 2,La Rubia,La Nueva Escuela,210860,62,0.758,0.319,0.717,6.46e-06,1,0.378,-4.194,0.131,109.887,4,0.753,dembow
+104,Lonely (with benny blanco),Lonely (with benny blanco),Justin Bieber,149297,89,0.631,0.864,0.239,0.0,0,0.116,-7.071,0.0398,79.859,4,0.0927,canadian pop
+105,Ma Bae,Ma Bae,Dardan,190000,66,0.826,0.404,0.787,2.81e-05,0,0.0933,-4.884,0.0339,126.057,4,0.555,
+106,Good For You,Revival (Deluxe),Selena Gomez,221280,68,0.607,0.181,0.673,0.0,0,0.069,-6.484,0.0611,88.952,4,0.215,dance pop
+108,Feel Me,Feel Me,Selena Gomez,226002,68,0.71,0.44,0.808,0.000773,0,0.0734,-6.703,0.0433,99.989,4,0.392,dance pop
+110,On My Mind (Jorja Smith X Preditah),On My Mind (Jorja Smith X Preditah),Jorja Smith,181509,70,0.71,0.42,0.662,0.0,0,0.0723,-5.947,0.175,130.037,4,0.755,dance pop
+111,Still Have Me,Still Have Me,Demi Lovato,203139,67,0.281,0.498,0.462,0.0,1,0.108,-6.638,0.0674,75.975,4,0.367,australian pop
+112,Gift (feat. Alicia Awa),Vollmond,Kontra K,173200,50,0.786,0.0547,0.647,0.0,0,0.128,-6.328,0.0938,99.976,4,0.46,christlicher rap
+113,Courage to Change,Courage to Change,Sia,292656,77,0.307,0.0927,0.606,0.0,0,0.357,-5.567,0.0347,78.828,4,0.11,australian dance
+114,Einsam an der Spitze,CB7,Capital Bra,171146,64,0.738,0.262,0.706,0.0,0,0.161,-4.839,0.298,80.092,4,0.541,german hip hop
+115,Natalie Don't,Natalie Don’t (Punctual Remix),RAYE,194346,26,0.807,0.176,0.533,0.0,0,0.284,-4.899,0.0443,124.006,4,0.853,dance pop
+116,Me & U (Remix) [feat. P. Diddy & Yung Joc],Me & U,Cassie,287946,49,0.819,0.376,0.506,0.0,1,0.0908,-4.965,0.0479,99.971,4,0.608,dance pop
+117,Rampapapam,Rampapapam,Arem Ozguc,192910,43,0.854,0.0933,0.621,0.000106,1,0.0974,-4.6,0.0702,95.993,4,0.783,turkish edm
+118,Unterwegs,Unterwegs,Apache 207,172226,63,0.706,0.376,0.772,8.76e-06,0,0.0884,-6.765,0.189,99.186,4,0.304,german hip hop
+119,Göz Göze,Göz Göze,MEL,169306,43,0.784,0.281,0.619,0.0195,0,0.0842,-5.561,0.0497,91.992,4,0.535,colombian pop
+124,MELODIEN,MELODIEN,MEL,150977,28,0.793,0.0733,0.809,0.000677,0,0.127,-5.574,0.0473,124.009,4,0.645,colombian pop
+129,VIBES,VIBES,MEL,160267,35,0.934,0.0268,0.517,2.17e-06,0,0.0778,-5.486,0.126,119.966,4,0.477,colombian pop
+134,Seni Sevdim,Seni Sevdim,MEL,171920,46,0.674,0.369,0.606,0.0,0,0.216,-6.008,0.0474,97.0,4,0.288,colombian pop
+139,SALLA,SALLA,MEL,156133,32,0.548,0.188,0.677,0.0,0,0.159,-5.495,0.243,92.538,1,0.489,colombian pop
+144,Love Story,Mini World,Indila,316280,57,0.375,0.815,0.255,0.0,0,0.0845,-12.279,0.0376,95.978,3,0.331,french pop
+145,TOM & JERRY,MOZZART,Mozzik,98676,33,0.752,0.651,0.73,1.6e-06,0,0.129,-5.051,0.262,155.943,4,0.537,albanian hip hop
+147,AUF WIEDERSEHEN,AUF WIEDERSEHEN,Mozzik,194168,50,0.594,0.207,0.745,0.0,1,0.525,-5.469,0.401,83.64,4,0.438,albanian hip hop
+149,I Like - Jost & Grubert Radio Mix,In A Perfect World... (I Like Edition),Keri Hilson,218280,54,0.761,0.0597,0.818,0.000225,0,0.0957,-4.196,0.0562,125.008,4,0.83,dance pop
+150,Zina,Brya,Babylone,237217,56,0.674,0.835,0.351,0.0,1,0.124,-10.224,0.0376,95.999,4,0.627,
+151,Badna Nwalee El Jaw,Badna Nwalee El Jaw,Nancy Ajram,213322,52,0.715,0.131,0.98,0.000633,0,0.675,-4.187,0.0495,128.002,4,0.963,afghan pop
+153,Ya Tabtab Wa Dallaa,Ya Tabtab Wa Dallaa,Nancy Ajram,268236,58,0.777,0.0817,0.806,2.24e-05,0,0.0295,-7.57,0.0348,140.002,4,0.963,afghan pop
+155,Man Down,Loud,Rihanna,267000,68,0.47,0.0436,0.904,0.0,0,0.0491,-4.024,0.177,155.788,4,0.557,detroit hip hop
+156,Hançer - Akustik,Hançer (Akustik),İlyas Yalçıntaş,215832,36,0.421,0.459,0.769,0.0,0,0.131,-6.507,0.0326,81.698,4,0.388,persian pop
+157,Bahsetmem Lazım,Güliz Ayla,Güliz Ayla,198665,50,0.453,0.395,0.526,0.0,0,0.235,-6.138,0.0436,117.687,4,0.216,turkish pop
+158,Gülü Soldurmam - Aşkın'ın Şarkıları,Gülü Soldurmam (Aşkın'ın Şarkıları),Tuğçe Kandemir,206482,39,0.611,0.144,0.532,0.0,1,0.239,-8.633,0.0355,143.958,3,0.487,turkish trap pop
+159,TODO BUENO,TRANSLATION,Black Eyed Peas,230400,53,0.843,0.0623,0.622,0.00289,1,0.156,-8.752,0.394,99.963,4,0.509,dance pop
+162,NO MAÑANA,NO MAÑANA,Black Eyed Peas,221694,47,0.865,0.0892,0.546,0.0912,1,0.133,-10.46,0.0565,117.961,4,0.534,dance pop
+165,MAMACITA,MAMACITA,Black Eyed Peas,249142,77,0.894,0.193,0.635,0.00105,1,0.0823,-6.929,0.0473,105.013,4,0.428,dance pop
+168,Gewitter,Gewitter,Mert,133451,43,0.748,0.0381,0.345,6.52e-06,1,0.119,-13.641,0.563,127.752,5,0.241,chicago rap
+169,Benzema,Benzema,Zuna,137348,43,0.821,0.267,0.785,2.52e-05,1,0.107,-6.538,0.297,110.26,3,0.548,
+170,Rain On Me (with Ariana Grande),Rain On Me (with Ariana Grande),Lady Gaga,182200,83,0.672,0.021,0.855,0.0,1,0.323,-3.764,0.0397,123.056,4,0.646,dance pop
+171,Genie In a Bottle,Christina Aguilera (Expanded Edition),Christina Aguilera,217573,72,0.627,0.21,0.8,0.000123,1,0.137,-6.945,0.162,175.815,4,0.912,indiecoustica
+172,Go Crazy,Slime & B,Chris Brown,176960,84,0.755,0.316,0.578,0.0,0,0.25,-8.932,0.145,94.148,4,0.581,dance pop
+173,Her Mevsim Yazım,Her Mevsim Yazım,Zeynep Bastık,193580,61,0.706,0.206,0.766,1.02e-05,1,0.277,-6.84,0.0772,92.977,4,0.879,turkish pop
+174,Conan x Xenia,Conan x Xenia,Haftbefehl,200773,54,0.781,0.235,0.755,2.6e-05,1,0.295,-6.607,0.213,147.972,4,0.52,neue deutsche harte
+175,90-60-111,90-60-111,SHIRIN DAVID,141386,62,0.8,0.103,0.628,0.0,1,0.391,-6.615,0.285,143.979,4,0.745,frauenrap
+176,MEGATRON,MEGATRON,Nicki Minaj,190746,69,0.893,0.128,0.641,8.06e-05,1,0.086,-3.051,0.272,94.017,4,0.771,dance pop
+177,Salt,Salt,Ava Max,180283,22,0.693,0.131,0.835,0.0,1,0.073,-3.242,0.0623,128.057,4,0.743,dance pop
+178,Breaking Me,Breaking Me,Topic,166793,88,0.789,0.223,0.72,0.0,0,0.129,-5.652,0.218,122.031,4,0.664,german dance
+179,Hush Hush; Hush Hush,Doll Domination,The Pussycat Dolls,253146,40,0.627,0.0555,0.795,0.0,0,0.354,-4.059,0.0629,129.401,4,0.604,dance pop
+180,Blinding Lights,After Hours,The Weeknd,200040,46,0.515,0.00146,0.731,9.59e-05,1,0.0897,-5.934,0.0592,171.004,4,0.336,canadian contemporary r&b
+181,Drake & Rihanna,Drake & Rihanna,Pietro Lombardi,190506,38,0.478,0.159,0.806,4.08e-06,0,0.348,-4.044,0.265,98.066,4,0.508,german pop
+182,Kommunikation,Kommunikation,Eno,177040,51,0.771,0.237,0.731,3.48e-05,0,0.217,-5.387,0.0534,76.98,4,0.844,melodic rap
+183,Irgendwann,Irgendwann,Anderson Rey,168127,0,0.672,0.741,0.282,0.000342,1,0.139,-18.172,0.0456,140.079,4,0.403,
+184,Ziyan,Mürekkep,Sıla,242898,32,0.655,0.183,0.738,0.0,1,0.107,-4.638,0.0307,111.868,4,0.183,opm
+185,Ödeştik,Yaş Hikayesi,Merve Özbey,261596,35,0.585,0.114,0.639,0.0,0,0.33,-7.388,0.0505,145.745,4,0.262,turkish pop
+187,Konumuz Var,Devran,Merve Özbey,188571,18,0.736,0.287,0.596,0.00113,0,0.0889,-8.088,0.0326,132.998,4,0.298,turkish pop
+189,Olmadı,Olmadı,İdo Tatlıses,257193,48,0.677,0.0357,0.816,0.000103,1,0.208,-2.87,0.232,175.917,4,0.391,turkish pop
+190,Hadi Gel Gezelim,Hadi Gel Gezelim,Ali471,164705,59,0.744,0.293,0.76,1.62e-05,0,0.0885,-4.87,0.0394,102.023,4,0.512,
+191,Can't Remember to Forget You (feat. Rihanna),Shakira. (Expanded Edition),Shakira,206866,65,0.694,0.122,0.81,0.0,0,0.141,-3.556,0.0661,137.968,4,0.824,dance pop
+192,Edhe ti,Edhe ti,Tayna,195250,0,0.794,0.165,0.746,0.0,0,0.126,-3.522,0.314,99.846,4,0.725,
+193,Nalan,Nalan,Emir Can İğrek,199958,64,0.54,0.19,0.418,0.685,0,0.198,-15.57,0.0761,91.042,4,0.189,turkish pop
+194,I Miss U,I Miss U,Nej,212666,29,0.749,0.226,0.751,3.61e-05,1,0.0841,-3.671,0.0513,101.978,4,0.476,meme rap

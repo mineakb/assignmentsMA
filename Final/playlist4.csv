@@ -1,0 +1,75 @@
+,trackname,album,artist,length,popularity,danceability,acousticness,energy,instrumentalness, mode,liveness,loudness,speechiness,tempo,time_signature,valence,genres
+0,Make Me (Cry),Make Me (Cry),Noah Cyrus,242081,68,0.588,0.592,0.471,0.00146,1,0.0733,-7.287,0.0577,152.881,4,0.209,alt z
+1,Idfc,Deadroses,blackbear,245172,0,0.63,0.611,0.5,4.04e-05,0,0.114,-8.755,0.0611,144.871,4,0.315,ohio hip hop
+2,You & Me,Groovy People,Marc E. Bassy,218480,0,0.693,0.0398,0.65,0.0,1,0.186,-8.376,0.192,85.026,4,0.663,electropop
+3,in my miNd,In My Mind,Maty Noyes,212026,0,0.768,0.45,0.632,0.0,0,0.0449,-3.807,0.0254,102.061,4,0.786,edm
+4,Lucifer,Lucifer,XOV,188146,0,0.527,0.00414,0.528,0.0,0,0.32,-6.604,0.043,127.957,4,0.0791,melodic rap
+5,Do You Remember,Do You Remember,Jarryd James,234852,0,0.649,0.181,0.333,0.000269,0,0.115,-9.938,0.0556,143.992,4,0.335,australian alternative pop
+7,Give Me Something,Thirty One,Jarryd James,191160,24,0.576,0.194,0.663,0.0,1,0.104,-7.101,0.0405,86.021,4,0.909,australian alternative pop
+9,Pity Party,Cry Baby (Deluxe Edition),Melanie Martinez,204085,71,0.716,0.058,0.73,7.32e-06,0,0.151,-4.126,0.0364,136.05,4,0.339,alt z
+14,Soap,Cry Baby (Deluxe Edition),Melanie Martinez,209426,69,0.595,0.254,0.689,5.44e-06,0,0.129,-6.107,0.148,168.112,4,0.213,alt z
+19,Dollhouse,Cry Baby (Deluxe Edition),Melanie Martinez,231853,73,0.725,0.22,0.708,0.0,0,0.777,-5.331,0.0756,130.029,4,0.555,alt z
+24,Pacify Her,Cry Baby (Deluxe Edition),Melanie Martinez,220013,73,0.576,0.0467,0.593,0.000767,0,0.237,-6.024,0.0306,157.993,4,0.373,alt z
+29,Mrs. Potato Head,Cry Baby (Deluxe Edition),Melanie Martinez,217506,70,0.517,0.174,0.622,0.0,0,0.105,-3.536,0.0577,170.154,4,0.463,alt z
+34,Too Close,The Lateness Of The Hour,Alex Clare,256613,62,0.588,0.00948,0.694,0.0,0,0.113,-4.278,0.0387,126.027,4,0.271,modern alternative rock
+35,Am I Wrong,Am I Wrong,Nico & Vinz,247520,62,0.725,0.162,0.68,2.13e-06,1,0.158,-5.465,0.0306,119.939,4,0.76,dance pop
+36,Castle - The Huntsman: Winter’s War Version,Castle (The Huntsman: Winter’s War Version),Halsey,260793,0,0.541,0.0119,0.44,0.0,0,0.0956,-12.212,0.0293,129.886,4,0.0967,ohio hip hop
+38,Gasoline,BADLANDS (Deluxe),Halsey,199593,0,0.732,0.201,0.605,0.0,0,0.129,-7.307,0.0401,120.013,4,0.26,ohio hip hop
+40,Rockabye (feat. Sean Paul & Anne-Marie),Rockabye (feat. Sean Paul & Anne-Marie),Clean Bandit,251088,77,0.72,0.406,0.763,0.0,0,0.18,-4.068,0.0523,101.965,4,0.742,dance pop
+41,Chantaje,Chantaje,Shakira,195612,0,0.859,0.168,0.756,4.65e-05,0,0.163,-3.36,0.0643,102.033,4,0.91,dance pop
+42,Sunset Lover,Sunset Lover,Petit Biscuit,237792,74,0.783,0.729,0.467,0.809,1,0.109,-9.474,0.0503,90.838,4,0.236,new french touch
+43,Trndsttr (feat. M. Maggie) - Lucian Remix,Trndsttr (Lucian Remix) [feat. M. Maggie] (feat. M. Maggie),Black Coast,179658,55,0.794,0.354,0.476,0.00307,0,0.332,-4.337,0.0558,129.827,4,0.471,
+45,Trndsttr (feat. M. Maggie),Trndsttr (feat. M. Maggie),Black Coast,244285,29,0.729,0.0358,0.486,0.636,1,0.102,-8.388,0.0282,112.056,4,0.131,
+47,Work - Remix,Work - Remix,Dale Pendlebury,223333,17,0.584,0.512,0.77,0.0,1,0.174,-5.804,0.212,90.021,4,0.657,
+48,All Hands On Deck REMIX (feat. Iggy Azalea),All Hands On Deck REMIX (feat. Iggy Azalea),Tinashe,220645,54,0.807,0.493,0.53,7.07e-05,0,0.236,-4.236,0.0415,97.007,4,0.429,dance pop
+49,Fantasy - Felix Jaehn Remix,Fantasy (Felix Jaehn Remix),Alina Baraz,194640,41,0.638,0.0118,0.781,0.00953,0,0.349,-6.848,0.0285,122.985,4,0.25,alternative r&b
+50,Move On,Move On,Mitch James,180891,30,0.65,0.293,0.403,0.0,0,0.0743,-7.337,0.162,184.029,4,0.549,nz pop
+51,Sail,Megalithic Symphony,AWOLNATION,259093,56,0.826,0.441,0.436,0.615,1,0.0964,-9.583,0.0558,119.051,4,0.272,indie rock
+52,Monster,Awake (Deluxe Edition),Skillet,178013,62,0.64,0.0431,0.957,0.0,1,0.0789,-2.336,0.0741,134.992,4,0.692,alternative metal
+57,Hero,Awake (Deluxe Edition),Skillet,186813,59,0.533,0.00791,0.967,0.0,1,0.336,-2.543,0.0995,142.018,4,0.782,alternative metal
+62,Feel Invincible,Unleashed,Skillet,229933,73,0.603,0.00045,0.886,0.0,0,0.26,-3.777,0.0837,126.025,4,0.395,alternative metal
+67,Awake and Alive,Awake (Deluxe Edition),Skillet,209493,55,0.434,0.0425,0.939,0.0,0,0.491,-2.983,0.0593,159.932,4,0.569,alternative metal
+72,Comatose,Comatose,Skillet,230426,67,0.359,0.00116,0.955,0.0,0,0.349,-2.323,0.12,170.033,4,0.446,alternative metal
+77,Nobody Love,Unbreakable Smile (Deluxe),Tori Kelly,203453,38,0.756,0.0066,0.709,0.00123,0,0.0929,-5.142,0.0335,99.976,4,0.543,contemporary country
+78,What's My Name?,Loud,Rihanna,263173,69,0.692,0.23,0.786,0.0,1,0.0797,-2.959,0.069,100.025,4,0.583,detroit hip hop
+79,Dancefloor Murda,Dancefloor Murda,Dj Rasimcan,195095,0,0.497,0.0977,0.741,5.46e-05,0,0.193,-7.927,0.197,100.081,4,0.685,basshall
+80,Too Many Years,Lil Big Pac,Kodak Black,196336,4,0.664,0.0233,0.704,0.0,0,0.112,-6.859,0.0974,147.067,4,0.633,florida rap
+81,Steady 1234 (feat. Jasmine Thompson & Skizzy Mars),Steady 1234 (feat. Jasmine Thompson & Skizzy Mars),Vice,177094,1,0.779,0.153,0.671,1.12e-05,1,0.115,-5.829,0.0814,104.953,4,0.718,contemporary country
+82,"How Far I'll Go - From ""Vaiana""","How Far I'll Go (From ""Vaiana"")",Alessia Cara,175517,62,0.309,0.155,0.544,0.000265,1,0.0727,-9.621,0.352,180.979,4,0.16,canadian contemporary r&b
+83,You Don't Know Me,You Don't Know Me,Jax Jones,213946,40,0.877,0.163,0.658,0.0,0,0.108,-6.055,0.132,123.999,4,0.693,dance pop
+84,Fighter,Stripped,Christina Aguilera,245960,0,0.428,0.249,0.917,0.000167,0,0.527,-1.381,0.196,188.828,4,0.418,indiecoustica
+85,Shape of You,Shape of You,Ed Sheeran,233712,72,0.825,0.581,0.652,0.0,0,0.0931,-3.183,0.0802,95.977,4,0.931,pop
+87,Galway Girl,÷ (Deluxe),Ed Sheeran,170826,79,0.624,0.0735,0.876,0.0,1,0.327,-3.374,0.1,99.943,4,0.781,pop
+89,Herz auf Beat,August (Deluxe Version),Nisse,235626,43,0.837,0.397,0.425,0.00109,1,0.0999,-8.314,0.152,122.08,4,0.472,
+90,It Ain't Me (with Selena Gomez),It Ain't Me (with Selena Gomez),Kygo,220780,77,0.64,0.119,0.533,0.0,1,0.0864,-6.596,0.0706,99.968,4,0.515,edm
+91,Taped up Heart (feat. Clara Mae) - LASH Remix,Taped Up Heart (feat. Clara Mae) [The Remixes],KREAM,187434,26,0.712,0.168,0.842,1.54e-06,0,0.132,-6.262,0.0604,105.027,4,0.474,australian hip hop
+92,7 Hours,7 Hours,Cattle & Cane,216153,48,0.687,0.132,0.369,0.000544,1,0.0963,-10.526,0.0645,81.996,4,0.718,folk-pop
+93,BO$$,Reflection (Deluxe),Fifth Harmony,171413,66,0.813,0.00621,0.872,0.0,1,0.0498,-5.224,0.107,103.016,4,0.736,dance pop
+94,Water Under The Bridge,25,Adele,240439,30,0.59,0.0142,0.833,5.35e-06,0,0.105,-6.503,0.0615,94.963,4,0.537,british soul
+96,Rolling In The Deep,Rolling In The Deep,Adele,228293,19,0.729,0.13,0.777,0.0,1,0.0541,-5.112,0.0293,104.946,4,0.527,british soul
+98,Love Myself,Love Myself,Hailee Steinfeld,218773,0,0.617,0.0026,0.759,0.0,0,0.419,-6.785,0.0677,122.925,4,0.324,dance pop
+99,Mama Said,Mama Said,Lukas Graham,206756,0,0.748,0.0229,0.867,1.28e-05,0,0.392,-4.715,0.0536,84.005,4,0.531,danish pop
+100,Five More Hours - Deorro x Chris Brown,Five More Hours (Deorro x Chris Brown),Deorro,211975,67,0.699,0.0288,0.883,0.0,0,0.817,-3.226,0.219,127.961,4,0.499,dance pop
+101,Too Good,Views,Drake,263373,1,0.804,0.0573,0.648,3.49e-05,1,0.102,-7.805,0.117,117.983,4,0.392,canadian hip hop
+102,Don't Be a Fuck Boy,Don't Be a Fuck Boy,Netherfriends,211875,40,0.744,0.51,0.543,0.000131,0,0.101,-7.233,0.0739,127.94,4,0.33,shimmer pop
+113,Fuck Boys Never Glow,Don't Be a Fuck Boy,Netherfriends,212343,19,0.592,0.429,0.542,0.00687,0,0.138,-6.815,0.0522,127.932,4,0.159,shimmer pop
+124,Fuck Boys on the Internet,Don't Be a Fuck Boy 2,Netherfriends,181818,10,0.7,0.149,0.646,0.0351,0,0.131,-8.351,0.0422,95.531,4,0.301,shimmer pop
+135,The World Is a Fuck Boy,Don't Be a Fuck Boy 2,Netherfriends,149142,5,0.492,0.872,0.353,0.00263,0,0.0887,-12.16,0.0365,139.942,4,0.0526,shimmer pop
+146,No Fuck Boy Zone,Don't Be a Fuck Boy 2,Netherfriends,151666,3,0.486,0.353,0.686,0.000214,1,0.135,-8.089,0.17,179.849,4,0.422,shimmer pop
+157,Fuck Boys Fight,Don't Be a Fuck Boy 2,Netherfriends,192750,22,0.707,0.409,0.308,0.00147,1,0.125,-9.732,0.0414,80.036,4,0.295,shimmer pop
+168,Fuck Boys Never Win,Don't Be a Fuck Boy 2,Netherfriends,172054,20,0.512,0.291,0.538,0.000339,1,0.136,-9.611,0.0847,146.168,4,0.283,shimmer pop
+179,Fuck Boys Don't Cry,Don't Be a Fuck Boy 2,Netherfriends,211648,3,0.641,0.943,0.386,0.124,1,0.106,-12.11,0.0465,91.012,4,0.357,shimmer pop
+190,Donald Trump Is a Fuck Boy,Don't Be a Fuck Boy 2,Netherfriends,155844,6,0.361,0.589,0.501,0.00899,0,0.121,-11.34,0.261,154.081,4,0.175,shimmer pop
+201,Fuck Boys Ruin Everything,Don't Be a Fuck Boy 2,Netherfriends,161142,27,0.722,0.86,0.444,0.0795,0,0.0756,-9.955,0.0865,139.871,4,0.195,shimmer pop
+212,We Are All Fuck Boys,Don't Be a Fuck Boy 2,Netherfriends,216410,2,0.534,0.114,0.605,0.00237,0,0.0992,-8.911,0.176,155.929,4,0.279,shimmer pop
+223,Get What You Came For,Get What You Came For,Kav Verhouzer,194805,38,0.686,0.118,0.823,6.06e-06,1,0.204,-5.03,0.0305,124.03,4,0.486,deep tropical house
+224,Stay (with Alessia Cara),Stay,Zedd,210090,1,0.679,0.232,0.634,0.0,0,0.115,-5.024,0.0654,102.013,4,0.498,complextro
+225,Phone Down (feat. Emily Warren) - Trinix Remix,Phone Down (Remixes) (feat. Emily Warren),Lost Kings,251866,30,0.475,0.154,0.852,0.0,1,0.0521,-2.669,0.145,81.608,4,0.226,alt z
+226,That's What I Like,24K Magic,Bruno Mars,206693,83,0.853,0.013,0.56,0.0,1,0.0944,-4.961,0.0406,134.066,4,0.86,pop
+227,Mask Off,FUTURE,Future,204600,45,0.833,0.0102,0.434,0.0219,1,0.165,-8.795,0.431,150.062,4,0.281,atl hip hop
+228,Secrets,Waking Up,OneRepublic,224693,0,0.516,0.0717,0.764,0.0,1,0.115,-6.223,0.0366,148.021,4,0.376,dance pop
+229,İçimdeki Duman,İçimdeki Duman,İlyas Yalçıntaş,221001,41,0.546,0.553,0.679,0.0,1,0.146,-6.28,0.0353,91.816,4,0.504,persian pop
+230,Aşksın Sen,Aşksın Sen,Furkan Kızılay,219226,0,0.608,0.0456,0.645,0.0,1,0.0631,-7.126,0.0359,137.019,4,0.378,
+231,İki Aşık,İki Aşık,Ersay Üner,214060,38,0.653,0.489,0.47,0.0,0,0.21,-7.568,0.0484,126.811,4,0.694,turkish pop
+232,Vurulmuşum,Simsiyah,Mustafa Ceceli,244780,0,0.689,0.661,0.6,0.0,0,0.121,-6.087,0.0319,120.035,4,0.222,turkish pop
+233,Goodbye (feat. Nicki Minaj & Willy William),Goodbye (feat. Nicki Minaj & Willy William),Jason Derulo,195419,66,0.643,0.0776,0.904,0.0,1,0.189,-3.694,0.0739,103.028,4,0.481,nz pop
